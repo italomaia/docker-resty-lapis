@@ -7,7 +7,7 @@ Getting started
 ===============
 
 ```
-git clone git@github.com:italomaia/docker-resty-lapis.git
+git clone https://github.com/italomaia/docker-resty-lapis.git
 cd docker-resty-lapis
 ./build.sh
 ```
